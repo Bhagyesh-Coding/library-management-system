@@ -27,15 +27,13 @@
 			actionable insights for the modern library environment. Secure,
 			scalable, and built for the future.
 		</p>
-
 		<!-- Get Started Button -->
-		<a href= "/signup" class="get-started">
+		<a href="/signup" class="get-started">
 			<span>Get Started</span>
 			<span class="arrow">→</span>
 		</a>
 
 	</section>
-
 
 	<!-- Bottom Section -->
 	<section class="features">
