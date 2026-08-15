@@ -1,8 +1,8 @@
 <script>
-	let name = '';
-	let email = '';
-	let password = '';
-	let confirmPassword = '';
+	let name = $state('');
+	let email = $state('');
+	let password = $state('');
+	let confirmPassword = $state('');
 </script>
 
 <svelte:head>
